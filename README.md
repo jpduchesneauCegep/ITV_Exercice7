@@ -8,5 +8,6 @@ Exercice 7 dans le cadre du cours 420-W44-SF Infrastructure technologique et vir
 - Thierry Paquet (Compte Perso)
 - Rémy Bernier (Compte Perso)
 - Marc Lévesque
+
 -Kouka Maher (Compte Perso)
 
