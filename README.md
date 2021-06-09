@@ -11,3 +11,4 @@ Exercice 7 dans le cadre du cours 420-W44-SF Infrastructure technologique et vir
 - Kouka Maher (Compte Perso)
 - Amadou Habil Ndiamoun Njikatoufon
 - Angel Simbaqueba (Compte perso)
+- Oleksii Kondratiev (Compte perso)
