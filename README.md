@@ -3,4 +3,4 @@ Exercice 7 dans le cadre du cours 420-W44-SF Infrastructure technologique et vir
 
 # Listes des contributeurs et contributrices:
 - Jean-Pierre Duchesneau (Cégep)
-
+- Raphael Bergeron-Larose(Cegep)
