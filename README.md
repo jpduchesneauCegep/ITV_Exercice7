@@ -7,3 +7,5 @@ Voici une modification
 - Jean-Pierre Duchesneau (Cégep)
 - Tristan Hamel
 - Nicolas Lavigne (Cégep)
+- Alexandre Bernier
+
