@@ -7,3 +7,4 @@ Exercice 7 dans le cadre du cours 420-W44-SF Infrastructure technologique et vir
 - Jean-Pierre Duchesneau (Cégep)
 - Tristan Hamel
 - Nicolas Lavigne (Cégep)
+- Sidi Allaf ^_^
